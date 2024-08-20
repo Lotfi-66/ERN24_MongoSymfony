@@ -1,6 +1,5 @@
 FROM node:20-alpine3.20
-
-LABEL authors="lotfi"
+LABEL authors="fauresebastien"
 
 WORKDIR /var/www/symfo
 
